@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Deploying React to a Sever.
         </a>
       </header>
     </div>
